@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mil.army.moda.college.institution.InstitutionServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-12T03:18:09.447Z" hostname="RGCASWF98267" time="0.092">
+  <properties/>
+  <testcase name="shouldCallGetInstitutionByIdReturnNotFound()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.077"/>
+  <testcase name="shouldCreateInstitution()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.001"/>
+  <testcase name="shouldCallDeleteInstitutionAndReturnNothing()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.001"/>
+  <testcase name="shouldGetAllInstitutions()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.004"/>
+  <testcase name="shouldCallUpdateInstitutionAndNotFindAInstitution()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.001"/>
+  <testcase name="shouldGetInstitutionById()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.001"/>
+  <testcase name="shouldCallUpdateInstitution()" classname="mil.army.moda.college.institution.InstitutionServiceTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

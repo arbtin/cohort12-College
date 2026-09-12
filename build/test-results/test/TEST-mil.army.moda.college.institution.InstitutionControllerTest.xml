@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mil.army.moda.college.institution.InstitutionControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-09-12T03:18:08.977Z" hostname="RGCASWF98267" time="0.467">
+  <properties/>
+  <testcase name="shouldUpdateInstitution()" classname="mil.army.moda.college.institution.InstitutionControllerTest" time="0.076"/>
+  <testcase name="shouldDeleteInstitution()" classname="mil.army.moda.college.institution.InstitutionControllerTest" time="0.004"/>
+  <testcase name="makeNewInstitution()" classname="mil.army.moda.college.institution.InstitutionControllerTest" time="0.003"/>
+  <testcase name="shouldGetAllInstitutions()" classname="mil.army.moda.college.institution.InstitutionControllerTest" time="0.004"/>
+  <testcase name="shouldGetInstitutionById()" classname="mil.army.moda.college.institution.InstitutionControllerTest" time="0.002"/>
+  <system-out><![CDATA[2026-09-11T22:18:08.979-05:00  INFO 38317 --- [College] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [mil.army.moda.college.institution.InstitutionControllerTest]: InstitutionControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-09-11T22:18:08.990-05:00  INFO 38317 --- [College] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration mil.army.moda.college.CollegeApplication for test class mil.army.moda.college.institution.InstitutionControllerTest
+2026-09-11T22:18:08.991-05:00  INFO 38317 --- [College] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [mil.army.moda.college.institution.InstitutionControllerTest]: InstitutionControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-09-11T22:18:08.993-05:00  INFO 38317 --- [College] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration mil.army.moda.college.CollegeApplication for test class mil.army.moda.college.institution.InstitutionControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.1)
+
+2026-09-11T22:18:09.007-05:00  INFO 38317 --- [College] [    Test worker] m.a.m.c.i.InstitutionControllerTest      : Starting InstitutionControllerTest using Java 21.0.7 with PID 38317 (started by c2298589 in /Users/c2298589/swf/github/cohort12-College)
+2026-09-11T22:18:09.007-05:00  INFO 38317 --- [College] [    Test worker] m.a.m.c.i.InstitutionControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2026-09-11T22:18:09.334-05:00  INFO 38317 --- [College] [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-09-11T22:18:09.334-05:00  INFO 38317 --- [College] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-09-11T22:18:09.335-05:00  INFO 38317 --- [College] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2026-09-11T22:18:09.348-05:00  INFO 38317 --- [College] [    Test worker] m.a.m.c.i.InstitutionControllerTest      : Started InstitutionControllerTest in 0.349 seconds (process running for 1.241)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
