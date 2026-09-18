@@ -4,6 +4,7 @@
 src/main/resources/static
 .gradle/
 !gradle/wrapper/gradle-wrapper.jar
+/build/
 
 ### STS ###
 .apt_generated
