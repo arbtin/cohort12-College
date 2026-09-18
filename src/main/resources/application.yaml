@@ -1,3 +1,17 @@
 spring:
   application:
     name: College
+
+  datasource:
+    url: jdbc:postgresql://localhost:5433/school
+    driver-class-name: org.postgresql.Driver
+    username: school_dev
+    password: school_dev12
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 8080

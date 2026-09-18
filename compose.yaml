@@ -1,0 +1,16 @@
+services:
+  postgres-db:
+    container_name: school
+    image: postgres # use latest official postgres version
+    restart: always
+    environment:
+      POSTGRES_USER: school_dev
+      POSTGRES_PASSWORD: school_dev12
+      POSTGRES_DB: school
+      POSTGRES_HOST_AUTH_METHOD: password
+    ports:
+      - "5434:5432"
+
+volumes:
+  postgresql_data:
+    driver: local
