@@ -1,4 +1,4 @@
-package mil.army.moda.college.institution;
+package mil.army.moda.college.Institution;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

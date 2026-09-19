@@ -1,7 +1,7 @@
 package mil.army.moda.college.Student;
 
 import jakarta.persistence.*;
-import mil.army.moda.college.institution.Institution;
+import mil.army.moda.college.Institution.Institution;
 
 @Entity
 public class Student {

@@ -1,4 +1,4 @@
-package mil.army.moda.college.institution;
+package mil.army.moda.college.Institution;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

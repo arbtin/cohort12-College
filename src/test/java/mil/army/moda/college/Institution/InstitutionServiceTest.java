@@ -1,4 +1,4 @@
-package mil.army.moda.college.institution;
+package mil.army.moda.college.Institution;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
